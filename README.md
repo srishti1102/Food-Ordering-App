@@ -19,3 +19,16 @@ Footer
     -Links
     -Address
     -Contact  
+
+
+
+ # two types of export/Import
+      -Default 
+      -Named
+
+
+
+# React Hooks
+  -(Normal JS utility functions)
+  -use state() - super powerful state variable
+  -useEffect()
